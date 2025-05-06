@@ -41,6 +41,9 @@
                                                                 <li class="active">
                                                                     <a class="parent" href="/">Trang chủ</a>
                                                                 </li>
+                                                                <li class="">
+                                                                    <a class="parent" href="/gioi-thieu">Giới thiệu</a>
+                                                                </li>
                                                                 
                                                                 <!-- Hiển thị danh mục sản phẩm ở menu mobile -->
                                                                 @foreach($categories as $category)
