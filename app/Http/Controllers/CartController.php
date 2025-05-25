@@ -19,13 +19,13 @@ class CartController extends Controller
                 'id' => $product->id,
                 'name' => $product->name,
                 'price' => $product->price,
-                'quantity' => $request->input('quantity'), 'attributes' => [
+                'quantity' => $request->input('quantity'),
+                'attributes' => [
                     'slug' => $product->slug,
                     'image' => $mainImage,
                 ],
             ]);
 
-            // Kiểm tra nếu là yêu cầu AJAX
             if ($request->ajax()) {
                 return response()->json(['success' => true, 'message' => 'Thêm sản phẩm vào giỏ hàng thành công!']);
             }
@@ -38,7 +38,6 @@ class CartController extends Controller
         }
 
         return redirect()->back()->with('error', 'Product not found!');
-
     }
 
     public function viewCart()
@@ -64,11 +63,35 @@ class CartController extends Controller
         return redirect()->route('cart.view')->with('success', 'Giỏ hàng đã được cập nhật.');
     }
 
+    public function updateQuantity(Request $request)
+    {
+        $id = $request->input('id');
+        $quantity = $request->input('quantity');
+
+        // Kiểm tra số lượng hợp lệ
+        if ($quantity < 1) {
+            \Cart::remove($id); // Xóa sản phẩm nếu số lượng < 1
+        } else {
+            \Cart::update($id, [
+                'quantity' => [
+                    'relative' => false,
+                    'value' => $quantity,
+                ],
+            ]);
+        }
+
+        // Tính tổng tiền
+        $total = \Cart::getTotal();
+
+        return response()->json([
+            'success' => true,
+            'total' => $total,
+        ]);
+    }
+
     public function remove(Request $request)
     {
         \Cart::remove($request->id);
         return response()->json(['success' => true]);
     }
-
-
 }

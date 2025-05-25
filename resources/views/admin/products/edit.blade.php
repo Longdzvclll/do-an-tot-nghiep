@@ -43,11 +43,11 @@
                                 <input type="number" step="0.01" name="price" class="form-control" value="{{ old('price', $product->price) }}" required>
                             </div>
 
-                            <!-- Số lượng tồn kho -->
+                            {{-- <!-- Số lượng tồn kho -->
                             <div class="form-group">
                                 <label for="stock">Số lượng</label>
                                 <input type="number" name="stock" class="form-control" value="{{ old('stock', $product->stock) }}" required>
-                            </div>
+                            </div> --}}
 
                             <!-- Danh mục sản phẩm -->
                             <div class="form-group">

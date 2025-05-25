@@ -80,7 +80,7 @@
                                 <th>Tên sản phẩm</th>
                                 <th>Giá</th>
                                 <th>Danh mục</th>
-                                <th>Số lượng còn</th>
+                                {{-- <th>Số lượng còn</th> --}}
                                 <th>Hành động</th>
                             </tr>
                             </thead>
@@ -106,7 +106,7 @@
                                             <span class="badge badge-info">{{ $category->name }}</span>
                                         @endforeach
                                     </td>
-                                    <td>{{ $product->stock }}
+                                    {{-- <td>{{ $product->stock }} --}}
                                     <td>
                                         <a href="{{ route('products.edit', $product->id) }}"
                                            class="btn btn-warning btn-sm">Sửa</a>

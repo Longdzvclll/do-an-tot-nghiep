@@ -70,6 +70,8 @@ Route::post('/cart/add', [CartController::class, 'addToCart'])->name('cart.add')
 Route::get('/gio-hang', [CartController::class, 'viewCart'])->name('cart.view');
 Route::post('/cart/update', [CartController::class, 'update'])->name('cart.update');
 Route::post('/cart/remove', [CartController::class, 'remove'])->name('cart.remove');
+// Thêm route cho cập nhật số lượng
+Route::post('/cart/update-quantity', [CartController::class, 'updateQuantity'])->name('cart.updateQuantity');
 
 Route::get('/thanh-toan', [CheckoutController::class, 'index'])->name('checkout');
 Route::post('/thanh-toan', [CheckoutController::class, 'store'])->name('checkout.store');
