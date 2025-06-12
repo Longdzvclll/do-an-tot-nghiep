@@ -267,7 +267,7 @@
                 <div class="col-md-6 col-sm-12 col-xs-12">
                     <div class="quick_order">
                         <h2 class="title">Liên hệ để đặt món</h2>
-                        <div class="content"><a href="tel:0839004889">0839 004 889</a></div>
+                        <div class="content"><a href="tel:0839004889">0369 429 883</a></div>
                     </div>
                 </div>
 
@@ -278,7 +278,7 @@
                         <div class="subscribe-content">
                             <p>Đăng ký để được cập nhật thông tin mới nhất về chính sách nhượng quyền
                                 <br>
-                                LẮC BOX</p>
+                                LẮC FOODS</p>
                             <div class="form-newsletter">
                                 <form accept-charset='UTF-8' action='/account/contact' class='contact-form'
                                       method='post'>

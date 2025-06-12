@@ -20699,8 +20699,8 @@
     @include("frontend.layouts.footer")
     <div class="addThis_listSharing hidden-sm hidden-xs">
         <ul class="addThis_listing">
-            <li class="addThis_item">
-                <a class="addThis_item--icon" href="tel:0353991888" rel="nofollow" aria-label="phone">
+            {{-- <li class="addThis_item">
+                <a class="addThis_item--icon" href="tel:0369429883" rel="nofollow" aria-label="phone">
                     <svg viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <circle cx="22" cy="22" r="22" fill="url(#paint2_linear)"/>
                         <path fill-rule="evenodd" clip-rule="evenodd"
@@ -20716,7 +20716,7 @@
                     </svg>
                     <span class="tooltip-text">Gọi ngay cho chúng tôi</span>
                 </a>
-            </li>
+            </li> --}}
 
 
             <li class="addThis_item">
@@ -20755,7 +20755,7 @@
             </li>
         </ul>
     </div>
-    <div class="actionToolbar_mobile hidden ">
+    {{-- <div class="actionToolbar_mobile hidden ">
         <ul class="actionToolbar_listing">
             <li>
                 <a href="tel:0369429883" rel="nofollow" aria-label="phone">
@@ -20794,7 +20794,7 @@
                 </a>
             </li>
         </ul>
-    </div>
+    </div> --}}
     <!-- Modal -->
     <div class="modal fade modal-addThis modal-succesform" id="addthis-modalSucces">
         <div class="modal-dialog modal-dialog-centered">

@@ -11,7 +11,7 @@
                         </h4>
                         <div class="footer-content toggle-footer">
 
-                            <p>CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI LẮC BOX</p>
+                            <p>CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI LẮC FOODS</p>
 
                             <p>Địa chỉ: 26/1 Đồng Me, Nam Từ Liêm, Hà Nội</p>
 

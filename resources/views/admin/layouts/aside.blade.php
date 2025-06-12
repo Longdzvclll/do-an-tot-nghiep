@@ -25,8 +25,7 @@
                     <a href="{{ route('admin.dashboard') }}" class="nav-link">
                         <i class="nav-icon fas fa-tachometer-alt"></i>
                         <p>
-                            Bảng điều khiển
-
+                            Quản lý thống kê
                         </p>
                     </a>
                 </li>

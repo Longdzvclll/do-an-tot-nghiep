@@ -29,7 +29,7 @@
     <div class="wrapper-row pd-page">
         <div class="container-fluid">
             <div class="heading-page text-center">
-                <h1>ĐIỀU KHOẢN DỊCH VỤ – LẮC BOX</h1>
+                <h1>ĐIỀU KHOẢN DỊCH VỤ – LẮC FOODS</h1>
             </div>
             <div class="blog-content">
                 <h3 dir="ltr"><strong>1. Định nghĩa</strong></h3>

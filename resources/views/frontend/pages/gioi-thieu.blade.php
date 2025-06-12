@@ -35,9 +35,9 @@
             <div class="blog-content">
                 <h3 dir="ltr" style="text-align:justify"><strong>Hành trình phát triển của thương hiệu Lắc Foods</strong></h3>
 
-<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Lắc Box là Công ty Cổ phần Sản xuất và Thương mại được thành lập vào năm 2025, với sứ mệnh xây dựng và phát triển các thương hiệu ẩm thực tiện lợi, hiện đại mang đậm phong vị Việt. Trước khi chính thức hoạt động dưới tên gọi Lắc Box, mô hình đã bắt đầu từ một cửa hàng nhỏ năm 2017 và dần mở rộng, tạo tiền đề cho sự ra đời của thương hiệu Lắc Foods &ndash; chuỗi đồ ăn nhanh quen thuộc với giới trẻ Hà Nội.</span></p>
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Lắc Foods là Công ty Cổ phần Sản xuất và Thương mại được thành lập vào năm 2025, với sứ mệnh xây dựng và phát triển các thương hiệu ẩm thực tiện lợi, hiện đại mang đậm phong vị Việt. Trước khi chính thức hoạt động dưới tên gọi Lắc Foods, mô hình đã bắt đầu từ một cửa hàng nhỏ năm 2017 và dần mở rộng, tạo tiền đề cho sự ra đời của thương hiệu Lắc Foods &ndash; chuỗi đồ ăn nhanh quen thuộc với giới trẻ Hà Nội.</span></p>
 
-<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Không chỉ đơn thuần phục vụ tại chỗ, Lắc Box còn định hướng mở rộng lĩnh vực thực phẩm đóng gói tiện lợi, giúp người tiêu dùng dễ dàng thưởng thức các món ăn ngon &ndash; nhanh &ndash; chuẩn vị tại nhà.</span></p>
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Không chỉ đơn thuần phục vụ tại chỗ, Lắc Foods còn định hướng mở rộng lĩnh vực thực phẩm đóng gói tiện lợi, giúp người tiêu dùng dễ dàng thưởng thức các món ăn ngon &ndash; nhanh &ndash; chuẩn vị tại nhà.</span></p>
 
 <h3 dir="ltr" style="text-align:justify"><strong>Burger nhà Lắc &ndash; Biểu tượng của Lắc Foods</strong></h3>
 
@@ -49,10 +49,10 @@
 
 <p>&nbsp;</p>
 
-<h3 dir="ltr"><strong>Tầm nhìn &ndash; Sứ mệnh &ndash; Giá trị cốt lõi của Lắc Box và Lắc Foods</strong></h3>
+<h3 dir="ltr"><strong>Tầm nhìn &ndash; Sứ mệnh &ndash; Giá trị cốt lõi của Lắc Foods và Lắc Foods</strong></h3>
 
 <p dir="ltr"><strong>Tầm nhìn</strong><br />
-<span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Lắc Box hướng đến mục tiêu trở thành đơn vị tiên phong trong ngành thực phẩm nhanh tại Việt Nam, với hệ sinh thái sản phẩm đa dạng từ phục vụ tại chỗ đến đóng gói tiện lợi, phù hợp xu hướng tiêu dùng mới.</span></p>
+<span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Lắc Foods hướng đến mục tiêu trở thành đơn vị tiên phong trong ngành thực phẩm nhanh tại Việt Nam, với hệ sinh thái sản phẩm đa dạng từ phục vụ tại chỗ đến đóng gói tiện lợi, phù hợp xu hướng tiêu dùng mới.</span></p>
 
 <p dir="ltr"><strong>Sứ mệnh:</strong><br />
 <span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Mang đến trải nghiệm ẩm thực:</span></p>
@@ -95,11 +95,11 @@
 <br />
 &nbsp;</p>
 
-<h3 dir="ltr"><strong>Nhà máy Lắc Box &ndash; Hậu phương vững chắc cho chất lượng sản phẩm</strong></h3>
+<h3 dir="ltr"><strong>Nhà máy Lắc Foods &ndash; Hậu phương vững chắc cho chất lượng sản phẩm</strong></h3>
 
-<p dir="ltr"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Để đảm bảo mỗi sản phẩm đến tay khách hàng đều đạt chất lượng tốt nhất, Lắc Box đầu tư hệ thống nhà máy sản xuất khép kín, hiện đại, đáp ứng tiêu chuẩn cao về an toàn thực phẩm và hiệu suất vận hành.</span></p>
+<p dir="ltr"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Để đảm bảo mỗi sản phẩm đến tay khách hàng đều đạt chất lượng tốt nhất, Lắc Foods đầu tư hệ thống nhà máy sản xuất khép kín, hiện đại, đáp ứng tiêu chuẩn cao về an toàn thực phẩm và hiệu suất vận hành.</span></p>
 
-<p dir="ltr"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Một số điểm nổi bật tại nhà máy của Lắc Box:</span></p>
+<p dir="ltr"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Một số điểm nổi bật tại nhà máy của Lắc Foods:</span></p>
 
 <ul>
 	<li dir="ltr">

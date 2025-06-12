@@ -29,10 +29,10 @@
     <div class="wrapper-row pd-page">
         <div class="container-fluid">
             <div class="heading-page text-center">
-                <h1>CHÍNH SÁCH BẢO MẬT – LẮC BOX</h1>
+                <h1>CHÍNH SÁCH BẢO MẬT – LẮC FOODS</h1>
             </div>
             <div class="blog-content">
-                <p dir="ltr"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Tại</span><a href="https://lacfoods.vn" style="text-decoration-line: none;"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt"> </span><span style="background-color:transparent; color:rgb(17, 85, 204); font-family:arial,sans-serif; font-size:11pt">Lắc Box</span></a><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">, chúng tôi &ndash; dưới sự quản lý của công ty mẹ Lắc Box &ndash; luôn cam kết bảo vệ tuyệt đối thông tin cá nhân của khách hàng trong mọi giao dịch trên nền tảng trực tuyến. Chính sách bảo mật dưới đây giúp bạn hiểu rõ về cách Lắc Box thu thập, sử dụng và bảo vệ dữ liệu cá nhân một cách minh bạch và an toàn.</span></p>
+                <p dir="ltr"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">Tại</span><a href="https://lacfoods.vn" style="text-decoration-line: none;"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt"> </span><span style="background-color:transparent; color:rgb(17, 85, 204); font-family:arial,sans-serif; font-size:11pt">Lắc Foods</span></a><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial,sans-serif; font-size:11pt">, chúng tôi &ndash; dưới sự quản lý của công ty mẹ Lắc Box &ndash; luôn cam kết bảo vệ tuyệt đối thông tin cá nhân của khách hàng trong mọi giao dịch trên nền tảng trực tuyến. Chính sách bảo mật dưới đây giúp bạn hiểu rõ về cách Lắc Box thu thập, sử dụng và bảo vệ dữ liệu cá nhân một cách minh bạch và an toàn.</span></p>
 
 <h3 dir="ltr"><strong>1. Thông tin cá nhân được thu thập</strong></h3>
 
